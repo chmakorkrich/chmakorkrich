@@ -8,7 +8,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2N2OTVlZThjNms4dWh0eGZkeXRwbzB2N2NuMHc1b3B3a3F5cW12cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif" width="500" height="400"/>
+  <img src="https://giphy.com/gifs/mr-robot-mrrobotedit-8fRwPZtbWkkX6" width="600" height="300"/>
 </div>
 * 🌱 I'm currently focus on learning Computer Networking, Penetration Testing.
 * 🛸 I want to become a great person, and also to be good at Cyber Security field!
