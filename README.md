@@ -4,7 +4,7 @@
 </div>
 
 * 🌱 I'm currently learning Computer Networking, Penetration Testing.
-* 💻 I want to become a great person, and also to be good at Cyber Security field!.
+* 💻 I want to become a great person, and also to be good at Cyber Security field!
 
 
 
