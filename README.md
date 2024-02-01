@@ -7,9 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://giphy.com/gifs/mr-robot-mrrobotedit-8fRwPZtbWkkX6" width="600" height="300"/>
-</div>
+
+
 * 🌱 I'm currently focus on learning Computer Networking, Penetration Testing.
 * 🛸 I want to become a great person, and also to be good at Cyber Security field!
 * 🕚 In my free time, i do research about security and read books about hacking!
