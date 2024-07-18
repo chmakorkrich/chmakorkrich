@@ -11,15 +11,18 @@
 ---
 
 * 🌱 I'm currently focus on learning Computer Networking, Penetration Testing.
-* 🛸 I want to become a great person, and also to be good at Cyber Security field!
+* :cyclone: I want to become a great person in this society, and become a great father someday!
 * 🕚 In my free time, i do research about security and read books about hacking!
+* :octocat: i believe i can make myself a better version someday!
+* :frog: i wanna become a frog, so i can croak croak croak every day!
 
 ---
 ## Interest in
 
 * :alien: Network Security
-* Movie and Anime Binge-watcher
-* 
+* :imp: Movie and Anime
+* :godmode: Meeting new people
+* :dollar: money hahahahaha!
 
 
 
