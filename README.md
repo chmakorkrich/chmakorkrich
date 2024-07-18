@@ -21,12 +21,13 @@
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/automainint/automainint/blob/main/pepe.gif">
   
+</div>
+<div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="CPP" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="python" alt="linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="bash" alt="linux" width="40" height="40"/>&nbsp;
-
 </div>
 
 
