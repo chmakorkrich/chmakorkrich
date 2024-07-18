@@ -1,4 +1,4 @@
-<h3 align="center">i'm m0ny <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" height="20">, i am trying every day to improve myself to be an offensive security expert! <img src=""C:\Users\Admin\Desktop\octocat.png"" width="30" height="30"></h3>
+<h3 align="center">i'm m0ny <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" height="20">, i am trying every day to improve myself to be an offensive security expert! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30" height="30"></h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uSczV8io3XROU/giphy.gif?cid=790b7611bwhzbxzbwllf7ly1wykln8lw1ptkg1fy7otpygxj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
@@ -9,7 +9,7 @@
 </div>
 
 ---
-<img src="https://github.com/automainint/automainint/blob/main/pepe.gif" width="150" height="150" align="right">
+<img src="https://github.com/automainint/automainint/blob/main/pepe.gif" width="130" height="130" align="right">
 
 * 🌱 I'm currently focus on learning Computer Networking, Penetration Testing.
 * :cyclone: I want to become a great person in this society, and become a great father someday!
@@ -20,11 +20,12 @@
 ---
 ## Interest in
 
+<img src="https://github.com/spidey-mony/image-for-readme/blob/main/octocat.png" align="right" width="130" height="130">
+
 * :alien: Network Security
 * :imp: Movie and Anime
 * :godmode: Meeting new people
 * :dollar: money hahahahaha!
-
 
 
 ---
