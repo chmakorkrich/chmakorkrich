@@ -20,7 +20,7 @@
 ---
 ## Interest in
 
-<img src="https://github.com/spidey-mony/image-for-readme/blob/main/octocat.png" align="right" width="130" height="130">
+<img src="https://github.com/spidey-mony/image-for-readme/blob/main/octocat.png" align="right" width="110" height="110">
 
 * :alien: Network Security
 * :imp: Movie and Anime
