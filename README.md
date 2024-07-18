@@ -1,4 +1,6 @@
-<h3 align="center">i'm m0ny <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" height="20">, i am trying every day to improve myself to be an offensive security expert! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20" height="25"></h3>
+<h3 align="center">i'm m0ny <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" height="20">, i am trying every day to improve myself to be an offensive security expert! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20" height="25"> <div id="image" align="right">
+   <img src="https://github.com/automainint/automainint/blob/main/pepe.gif" alt="Description" style="width: 250px;"/>
+ </div>  </h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uSczV8io3XROU/giphy.gif?cid=790b7611bwhzbxzbwllf7ly1wykln8lw1ptkg1fy7otpygxj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
@@ -18,9 +20,6 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div id="image" align="right">
-   <img src="https://github.com/automainint/automainint/blob/main/pepe.gif" alt="Description" style="margin-right: 20px; width: 250px;"/>
- </div> 
 <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40" style="margin-right: 10px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="CPP" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
