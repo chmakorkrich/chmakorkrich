@@ -29,7 +29,5 @@
 
 --- 
 
-#### :fire: My Stats :
-
-<img src="https://github.com/automainint/automainint/blob/main/pepe.gif">
+<img src="https://github.com/automainint/automainint/blob/main/pepe.gif" align="center">
 
