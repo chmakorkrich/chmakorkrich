@@ -18,6 +18,8 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div id="image" align="right">
+   <img src="https://github.com/automainint/automainint/blob/main/pepe.gif" alt="Description" style="margin-right: 20px; width: 250px;"/>
   <div>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40" style="margin-right: 10px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="CPP" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
@@ -25,9 +27,9 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="python" alt="python" width="40" height="40" style="margin-right: 10px;"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="bash" alt="bash" width="40" height="40"/>
 </div>
-
-<div id="image" align="right">
-  <img src="https://github.com/automainint/automainint/blob/main/pepe.gif" alt="Description" style="margin-right: 20px; width: 250px;"/>
 </div>
+
+ 
+
 
 
