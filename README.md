@@ -9,11 +9,11 @@
 </div>
 
 ---
-<span style="font-size:0.5em;">
+
 * 🌱 I'm currently focus on learning Computer Networking, Penetration Testing.
 * 🛸 I want to become a great person, and also to be good at Cyber Security field!
 * 🕚 In my free time, i do research about security and read books about hacking!
-</span>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
