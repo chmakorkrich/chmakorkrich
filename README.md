@@ -33,11 +33,16 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="CPP" alt="C++" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="linux" alt="linux" width="40" height="40" style="margin-right: 10px;"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="python" alt="python" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="CPP" alt="C++" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="linux" alt="linux" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="python" alt="python" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="bash" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" title="window" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" title="kali" alt="bash" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="vscode" alt="bash" width="40" height="40"/>
+
+  
 </div>
 
 
