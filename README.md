@@ -26,7 +26,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="bash" alt="bash" width="40" height="40"/>
 </div>
 
-<div id="image" align="center">
+<div id="image" align="right">
   <img src="https://github.com/automainint/automainint/blob/main/pepe.gif" alt="Description" style="margin-right: 20px; width: 250px;"/>
 </div>
 
