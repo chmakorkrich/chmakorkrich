@@ -25,8 +25,8 @@
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="python" alt="linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="bash" alt="linux" width="40" height="40"/>&nbsp;
 
-  <img src="https://github.com/automainint/automainint/blob/main/pepe.gif" float="left">
 </div>
+  <img src="https://github.com/automainint/automainint/blob/main/pepe.gif" float="left">
 
 
 
