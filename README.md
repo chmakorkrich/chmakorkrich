@@ -9,6 +9,7 @@
 </div>
 
 ---
+<img src="https://github.com/automainint/automainint/blob/main/pepe.gif" width="150" height="150" align="right">
 
 * 🌱 I'm currently focus on learning Computer Networking, Penetration Testing.
 * :cyclone: I want to become a great person in this society, and become a great father someday!
