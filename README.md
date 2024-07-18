@@ -1,4 +1,4 @@
-<h3 align="center">i'm m0ny <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" height="20">, i am trying every day to improve myself to be an offensive security expert! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20" height="30"></h3>
+<h3 align="center">i'm m0ny <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" height="20">, i am trying every day to improve myself to be an offensive security expert! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="20" height="25"></h3>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uSczV8io3XROU/giphy.gif?cid=790b7611bwhzbxzbwllf7ly1wykln8lw1ptkg1fy7otpygxj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
