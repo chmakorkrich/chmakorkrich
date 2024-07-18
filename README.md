@@ -19,7 +19,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github.com/automainint/automainint/blob/main/pepe.gif" alt="Description" margin-right: 20px;>
+  <img src="https://github.com/automainint/automainint/blob/main/pepe.gif" alt="Description" style="margin-right: 20px;">
   
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
