@@ -31,6 +31,5 @@
 
 #### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spidey-mony&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<img src="https://github.com/automainint/automainint/blob/main/pepe.gif">
 
