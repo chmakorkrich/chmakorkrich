@@ -15,7 +15,7 @@
 * :cyclone: I want to become a great person in this society, and become a great father someday!
 * 🕚 In my free time, i do research about security and read books about hacking!
 * :octocat: i believe i can make myself a better version someday!
-* :frog: i wanna become a frog, so i can croak croak croak every day!
+* :frog: i wanna become a frog, so i could croak croak croak every day!
 
 ---
 ## Interest in
