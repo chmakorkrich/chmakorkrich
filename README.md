@@ -15,6 +15,15 @@
 * 🕚 In my free time, i do research about security and read books about hacking!
 
 ---
+## Interest in
+
+* :alien: Network Security
+* Movie and Anime Binge-watcher
+* 
+
+
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
