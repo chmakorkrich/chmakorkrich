@@ -14,7 +14,7 @@
 * 🌱 I'm currently focus on learning Computer Networking, Penetration Testing.
 * :cyclone: I want to become a great person in this society, and become a great father someday!
 * 🕚 In my free time, i do research about security and read books about hacking!
-* :octocat: i believe i can make myself a better version someday!
+* :octocat: i am currently learning to code properly
 * :frog: i wanna become a frog, so i could croak croak croak every day!
 
 ---
