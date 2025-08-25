@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/5e/ab/cd/5eabcd5b8a9f6edd8cfdad3f0e36dacd.gif" width="125"/>
 </div>
 <div id="badge" align="center">
-   <a href="https://www.linkedin.com/in/yun-mony-231a43266/">
+   <a href="https://www.linkedin.com/in/mony-y-231a43266/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
