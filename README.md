@@ -6,4 +6,4 @@ i spend most of my times learning about <b>offensive security</b> and <b>web app
 
 currently pursuing <b>Certified Penetration Testing Specialist</b> 
 
-certs i'm occupied: C|EHv13 | CTRA | CPTS (In Review)
+certs i'm occupied: C|EHv13 | CTRA | CPTS 
